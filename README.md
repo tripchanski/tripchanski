@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tripchanski&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tripchanski&theme=flat&no-frame=true&no-bg=true)
+![](https://github-profile-trophy.vercel.app/?username=tripchanski&theme=onedark&no-frame=true&no-bg=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tripchanski&icon=0&color=0)](https://visitcount.itsvg.in)
