@@ -1,6 +1,6 @@
-# 💫 About Me:
-🚀 Hi, I'm Artur!<br>💻 Web Developer & UI/UX Designer<br><br>Quality is my top priority. I create thoughtful designs for websites and apps and translate them into a working product.<br><br>⚡ What I do:<br><br>I design user-friendly and stylish interfaces.<br>I write clean, structured code.<br>I work on quality and details to make every project look and work perfectly.<br>💡 I make not just beautiful, but convenient and efficient!
+💫 About Me:
 
+🚀 Hi, I'm Artur!<br>💻 Web Developer<br><br>Quality is my top priority. I create websites and apps and translate ideas into a working product.<br><br>⚡ What I do:<br><br>I write clean, structured code.<br>I focus on quality and details to make every project work perfectly.<br>💡 I make not just functional, but efficient and reliable solutions!
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=GitHub&logoColor=white)]([https://your-website.com](https://tripchanski.github.io/Portfolio/))
